@@ -1,0 +1,19 @@
+.block{
+	height: 200px;
+	width: 100%;
+}
+.first{
+	background-color: red;
+}
+.second{
+	background-color: white;
+}
+.third{
+	background-color: green;
+}
+*{
+	border: solid black 1px;
+}
+h1{
+	text-align: center;
+}
